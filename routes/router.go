@@ -6,12 +6,12 @@ import (
 
 	"net/http"
 
-	hand "github.com/okyws/go-banking-auth/adapter/handler"
-	repo "github.com/okyws/go-banking-auth/adapter/repository"
-	conf "github.com/okyws/go-banking-auth/config"
-	"github.com/okyws/go-banking-auth/middleware"
-	serv "github.com/okyws/go-banking-auth/service"
-	logger "github.com/okyws/go-banking-lib/config"
+	hand "github.com/rismapa/go-banking-auth/adapter/handler"
+	repo "github.com/rismapa/go-banking-auth/adapter/repository"
+	conf "github.com/rismapa/go-banking-auth/config"
+	"github.com/rismapa/go-banking-auth/middleware"
+	serv "github.com/rismapa/go-banking-auth/service"
+	logger "github.com/rismapa/go-banking-lib/config"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"

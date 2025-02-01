@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/okyws/go-banking-auth/domain"
+	"github.com/rismapa/go-banking-auth/domain"
 
 	"github.com/jmoiron/sqlx"
 )

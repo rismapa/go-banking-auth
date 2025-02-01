@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	logger "github.com/okyws/go-banking-lib/config"
+	logger "github.com/rismapa/go-banking-lib/config"
 )
 
 type Config struct {

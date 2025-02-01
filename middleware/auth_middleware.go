@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	config "github.com/okyws/go-banking-auth/config"
-	"github.com/okyws/go-banking-auth/service"
-	"github.com/okyws/go-banking-auth/utils"
+	config "github.com/rismapa/go-banking-auth/config"
+	"github.com/rismapa/go-banking-auth/service"
+	"github.com/rismapa/go-banking-auth/utils"
 )
 
 // AuthMiddleware untuk validasi JWT

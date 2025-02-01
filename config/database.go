@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/okyws/go-banking-auth/domain"
-	logger "github.com/okyws/go-banking-lib/config"
+	"github.com/rismapa/go-banking-auth/domain"
+	logger "github.com/rismapa/go-banking-lib/config"
 
 	"github.com/jmoiron/sqlx"
 )
